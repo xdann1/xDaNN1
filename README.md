@@ -17,8 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdann1&show_icons=true&theme=dark&locale=en&layout=compact" alt="xdann1" /></p>
 
-
-# Blog posts
+### :closed_book:  Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Unicode Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-unicode/)
 - [Backdoor Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-backdoor/)
