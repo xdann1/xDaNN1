@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/xdann1/xDaNN1/blob/main/media/hacker.gif" alt="hacker gif" height="563" width="1000" />
+
 <h1 align="center">Hi 👋, I'm xdann1</h1>
 <h3 align="center">Cybersecurity enthusiast | CTF PLayer | Red Team | eJPT</h3>
 
