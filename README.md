@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m xdann1
 - :mortar_board:  Penetration Testing Student
+- 🔴 Red Team
 - :keyboard:  CTF player in [Hack The Box](https://app.hackthebox.com/profile/535069)  
 - :scroll:  "Our ships are the hardware, our cannons the software, the bullets the knowledge..."
-- 🔴 Red Team
 
 ### Tech
 
