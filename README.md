@@ -20,4 +20,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unicode Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-unicode/)
+- [Backdoor Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-backdoor/)
+- [SteamCloud Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-steamcloud/)
+- [eJPT/PTS Review](https://xdann1.github.io/posts/ejpt-pts-review/)
 <!-- BLOG-POST-LIST:END -->
