@@ -6,8 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xdann1&label=Profile%20views&color=0e75b6&style=flat" alt="xdann1" />
 <a href="https://xdann1.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-xdann1.github.io-blue?style=flat&logo=google-chrome"></a>
 
-- 📝 I regularly write articles on [https://xdann1.github.io/](https://xdann1.github.io/)
-
+- :mortar_board: Penetration Testing Student
+- :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/profile/535069)
+- :pencil: I regularly write articles on [https://xdann1.github.io/](https://xdann1.github.io/)
+- :scroll: "Our ships are the hardware, our cannons the software, the bullets the knowledge..." 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nn1da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn1da" height="30" width="40" /></a>
