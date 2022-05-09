@@ -32,5 +32,5 @@
 <a href="https://github.com/xdann1" target="blank"><img align="center" src="https://raw.githubusercontent.com/FedericoManzano/bodystyle-iconos/master/svg/bs-github.svg" alt="xdann1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18315253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18315253" height="30" width="40" /></a>
 <a href="https://twitter.com/nn1da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn1da" height="30" width="40" /></a>
-<a href="https://discord.gg/asd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asd" height="30" width="40" /></a>
+<a href="https://discord.gg/wAjNJaqF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asd" height="30" width="40" /></a>
 </p>
