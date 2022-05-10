@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/xdann1/xDaNN1/blob/main/media/hacker.gif" alt="hacker gif" height="506" width="900" />
 
 <h1 align="center">Hi 👋, I'm xdann1</h1>
-<h3 align="center">Cybersecurity enthusiast | CTF PLayer | Red Team | eJPT</h3>
+<h3 align="center">Cybersecurity enthusiast | CTF Player | Red Team | eJPT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xdann1&label=Profile%20views&color=0e75b6&style=flat" alt="xdann1" />
 <a href="https://xdann1.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-xdann1.github.io-blue?style=flat&logo=google-chrome"></a>
