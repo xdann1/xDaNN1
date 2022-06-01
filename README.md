@@ -21,10 +21,10 @@
 
 ### :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Validation Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-validation/)
 - [Pandora Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-pandora/)
 - [Unicode Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-unicode/)
 - [Backdoor Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-backdoor/)
-- [SteamCloud Writeup &lpar;HTB&rpar;](https://xdann1.github.io/posts/writeup-steamcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">:envelope: Connect with me</h3>
