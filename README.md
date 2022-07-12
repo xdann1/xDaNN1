@@ -21,10 +21,10 @@
 
 ### :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inyecciones SQL](https://xdann1.github.io/posts/inyecciones-sql/)
 - [Paper Writeup](https://xdann1.github.io/posts/writeup-paper/)
 - [Validation Writeup](https://xdann1.github.io/posts/writeup-validation/)
 - [Pandora Writeup](https://xdann1.github.io/posts/writeup-pandora/)
-- [Unicode Writeup](https://xdann1.github.io/posts/writeup-unicode/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">:envelope: Connect with me</h3>
